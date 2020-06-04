@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+  <leader>     cx  a22     3  45  </leader>
+  <controlfield tag="001">026785498</controlfield>
+  <controlfield tag="003">http://www.idref.fr/026785498</controlfield>
+  <controlfield tag="004">19750204</controlfield>
+  <controlfield tag="005">20200405145328.000</controlfield>
+  <controlfield tag="006">0004</controlfield>
+  <controlfield tag="007">341720001</controlfield>
+  <controlfield tag="008">Tp5</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">0000000374650009</subfield>
+    <subfield code="2">ISNI</subfield>
+    <subfield code="C">BNF</subfield>
+    <subfield code="d">20150918</subfield>
+  </datafield>
+  <datafield tag="033" ind1=" " ind2=" ">
+    <subfield code="a">http://catalogue.bnf.fr/ark:/12148/cb11896580v</subfield>
+    <subfield code="2">BNF</subfield>
+    <subfield code="d">20150918</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">028154622</subfield>
+    <subfield code="9">sudoc</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">frBN002438150</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">frBN000600237</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">FRBNF118965803</subfield>
+    <subfield code="z">FRBNF11896580</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">http://viaf.org/viaf/227492627</subfield>
+    <subfield code="2">VIAF</subfield>
+    <subfield code="C">VIAF</subfield>
+    <subfield code="d">20200401</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19750204afrey50      ba0</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+  </datafield>
+  <datafield tag="103" ind1=" " ind2=" ">
+    <subfield code="a"> 1934 </subfield>
+    <subfield code="b"> 20091009 </subfield>
+  </datafield>
+  <datafield tag="106" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">0</subfield>
+  </datafield>
+  <datafield tag="152" ind1=" " ind2=" ">
+    <subfield code="a">AFNOR</subfield>
+  </datafield>
+  <datafield tag="200" ind1=" " ind2="1">
+    <subfield code="7">ba0yba0y</subfield>
+    <subfield code="9">0</subfield>
+    <subfield code="a">Chessex</subfield>
+    <subfield code="b">Jacques</subfield>
+    <subfield code="f">1934-2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="7">ba0yba0y</subfield>
+    <subfield code="a">Poète , essayiste, romancier suisse de langue française</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20200405</subfield>
+    <subfield code="g">AFNOR</subfield>
+    <subfield code="h">028154622</subfield>
+  </datafield>
+  <datafield tag="810" ind1=" " ind2=" ">
+    <subfield code="a">Comme l'os : poèmes / J. Chessex, 1988</subfield>
+  </datafield>
+  <datafield tag="810" ind1=" " ind2=" ">
+    <subfield code="a">LCNA, 1985</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Chessex, Jacques (1934-2009)</subfield>
+  </datafield>
+</record>
+

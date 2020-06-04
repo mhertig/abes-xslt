@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+  <leader>     nx  b22     3  45  </leader>
+  <controlfield tag="001">078147549</controlfield>
+  <controlfield tag="003">http://www.idref.fr/078147549</controlfield>
+  <controlfield tag="004">20040517</controlfield>
+  <controlfield tag="005">20040517104138.000</controlfield>
+  <controlfield tag="006">920502101</controlfield>
+  <controlfield tag="007">920502101</controlfield>
+  <controlfield tag="008">Tb5</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040517afrey50      ba0</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ita</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="103" ind1=" " ind2=" ">
+    <subfield code="a"> 1941     </subfield>
+  </datafield>
+  <datafield tag="106" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">0</subfield>
+  </datafield>
+  <datafield tag="150" ind1=" " ind2=" ">
+    <subfield code="a">y</subfield>
+  </datafield>
+  <datafield tag="152" ind1=" " ind2=" ">
+    <subfield code="a">AFNOR</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2=" ">
+    <subfield code="7">ba0yba0y</subfield>
+    <subfield code="9">1</subfield>
+    <subfield code="a">Exposition universelle</subfield>
+    <subfield code="f">1941</subfield>
+    <subfield code="e">Rome</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20040517</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="810" ind1=" " ind2=" ">
+    <subfield code="a">Civiltà, rivista trimestrale della esposizione universale di Roma, [1941]</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">Exposition universelle (1941 ; Rome)</subfield>
+  </datafield>
+</record>
+

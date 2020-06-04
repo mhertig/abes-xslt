@@ -135,9 +135,10 @@
             <xsl:with-param name="dstTag">100</xsl:with-param>
         </xsl:call-template>
         <!-- 210->110 -->
+        <!-- collectivité 1er indic = 0, congrès 1er indic = 1 -->
         <xsl:call-template name="Z_PT_ACCES_210">
             <xsl:with-param name="srcTag">210</xsl:with-param>
-            <xsl:with-param name="dstTag">110</xsl:with-param>
+            <xsl:with-param name="dstTag">110</xsl:with-param>          
         </xsl:call-template>
         <!-- 215->151 -->
         <xsl:call-template name="transform-datafield">
